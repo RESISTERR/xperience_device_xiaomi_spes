@@ -168,6 +168,9 @@ TARGET_KERNEL_HEADER_SOURCE := kernel/xiaomi/spes
 # LMKD
 TARGET_LMKD_STATS_LOG := true
 
+# Lights
+TARGET_PROVIDES_LIBLIGHT := true
+
 # Media
 TARGET_DISABLED_UBWC := true
 
