@@ -140,6 +140,11 @@
 
 # Fingerprint
 /data/vendor/fpc(/.*)?                                              u:object_r:vendor_fingerprint_data_file:s0
+/data/vendor/fpdump(/.*)?                                           u:object_r:vendor_fingerprint_data_file:s0 
+/data/vendor/gf_data(/.*)?                                          u:object_r:vendor_fingerprint_data_file:s0
+/data/vendor/goodix(/.*)?                                           u:object_r:vendor_fingerprint_data_file:s0 
+/mnt/vendor/persist/fpc(/.*)?                                       u:object_r:vendor_fingerprint_data_file:s0
+/mnt/vendor/persist/goodix(/.*)?                                    u:object_r:vendor_fingerprint_data_file:s0
 
 # SSR
 /sys/devices(/platform)?/soc/[a-z0-9\.:]+,[a-z0-9\-\_]+/subsys[0-9]+/name         u:object_r:vendor_sysfs_ssr:s0
