@@ -148,10 +148,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES_DEBUG += \
     bootctl
 
-# GrapheneOS Camera
-PRODUCT_PACKAGES += \
-    GrapheneOSCamera
-
 # Camera
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
