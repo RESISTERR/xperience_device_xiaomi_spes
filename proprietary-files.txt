@@ -1,4 +1,4 @@
-# All SPES MIUI blobs below are extracted from miui_SPESNGlobal_V13.0.7.0.SGKMIXM
+# All SPES MIUI blobs below are extracted from miui_SPESNGlobal_V14.0.2.0.TGCMIXM
 
 # ACDB - from SPES MIUI
 vendor/etc/acdbdata/IDP/bengal-scubaidp-snd-card/IDP_Scuba_Bluetooth_cal.acdb|0cc92d7ce081e30ccaa203b3591f592d7ca36a6d
@@ -486,8 +486,8 @@ vendor/firmware/a702_zap.elf|662bb0bc127de3d71d837495de8ce8645c8f245e
 vendor/firmware/a702_zap.mdt|19b7ed336e5c6e4c9cc26bd7f07571cfb4e634cc
 
 # HotwordEnrollment - from SPES MIUI
--product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|be034975707dbd860441ad16746277f04bede8d2
--product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|b53e90faf861f36c3b71f7f15f54960b1e9d6313
+-product/priv-app/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND.apk
+-product/priv-app/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND.apk
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
 -system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be426a66be09dd08ab9c1921327ef0
 
